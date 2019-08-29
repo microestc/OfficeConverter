@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Copyright>microestc co.</Copyright>
+    <PackageId>OfficeConverter</PackageId>
+    <Authors>Microestc</Authors>
+    <Company>Microestc Co.</Company>
+    <Version>1.0.5</Version>
+    <PackageReleaseNotes>Office Converter</PackageReleaseNotes>
+    <Product>OfficeConverter</Product>
+    <PackageLicenseUrl>https://github.com/microestc/OfficeConverter/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/microestc/OfficeConverter</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/microestc/OfficeConverter</PackageProjectUrl>
+    <RepositoryType>github</RepositoryType>
+  </PropertyGroup>
+
+</Project>

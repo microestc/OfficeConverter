@@ -1,0 +1,7 @@
+version: '3.4'
+
+services:
+   dockertest:
+      volumes:
+        - /test:/test
+        - ${APPPATH}
