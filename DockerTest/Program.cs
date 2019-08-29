@@ -1,4 +1,5 @@
-﻿using OfficeConverter;
+﻿using Newtonsoft.Json;
+using Microestc.OfficeConverter;
 using System;
 
 namespace DockerTest

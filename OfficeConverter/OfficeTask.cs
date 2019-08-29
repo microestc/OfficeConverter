@@ -1,10 +1,10 @@
-﻿using OfficeConverter.Events;
+﻿using Microestc.OfficeConverter.Events;
 using System;
 using System.Diagnostics;
 using System.IO;
 using System.Reflection;
 
-namespace OfficeConverter
+namespace Microestc.OfficeConverter
 {
     public class OfficeTask
     {

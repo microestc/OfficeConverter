@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace OfficeConverter
+namespace Microestc.OfficeConverter
 {
     public class TaskSetup
     {

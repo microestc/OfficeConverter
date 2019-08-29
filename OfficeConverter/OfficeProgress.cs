@@ -1,8 +1,8 @@
-﻿using OfficeConverter.Events;
+﻿using Microestc.OfficeConverter.Events;
 using System;
 using System.Text.RegularExpressions;
 
-namespace OfficeConverter
+namespace Microestc.OfficeConverter
 {
     public class OfficeProgress
     {

@@ -1,9 +1,9 @@
-﻿using OfficeConverter.Events;
+﻿using Microestc.OfficeConverter.Events;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace OfficeConverter
+namespace Microestc.OfficeConverter
 {
     public class OfficeQueue
     {

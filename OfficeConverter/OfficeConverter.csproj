@@ -4,12 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Copyright>microestc co.</Copyright>
-    <PackageId>OfficeConverter</PackageId>
+    <PackageId>Microestc.OfficeConverter</PackageId>
     <Authors>Microestc</Authors>
     <Company>Microestc Co.</Company>
-    <Version>1.0.5</Version>
+    <Version>1.0.0</Version>
     <PackageReleaseNotes>Office Converter</PackageReleaseNotes>
-    <Product>OfficeConverter</Product>
+    <Product>Microestc.OfficeConverter</Product>
     <PackageLicenseUrl>https://github.com/microestc/OfficeConverter/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/microestc/OfficeConverter</RepositoryUrl>
     <PackageProjectUrl>https://github.com/microestc/OfficeConverter</PackageProjectUrl>

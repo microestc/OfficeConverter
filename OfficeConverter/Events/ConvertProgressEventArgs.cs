@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OfficeConverter.Events
+namespace Microestc.OfficeConverter.Events
 {
     public class ConvertProgressEventArgs : EventArgs
     {

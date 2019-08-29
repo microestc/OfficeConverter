@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OfficeConverter.Events
+namespace Microestc.OfficeConverter.Events
 {
     public class ConvertTaskFinishedEventArgs : EventArgs
     {

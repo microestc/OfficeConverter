@@ -8,6 +8,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D0900020-E4BC-4FC7-A8AA-234A32888F23}"
 	ProjectSection(SolutionItems) = preProject
 		gobal.json = gobal.json
+		LICENSE = LICENSE
+		README.md = README.md
 	EndProjectSection
 	ProjectSection(FolderGlobals) = preProject
 		C_5_4Users_4Microestc_4Source_4Repos_4microestc_4MagickConverter_4gobal_1json__JsonSchema = http://json.schemastore.org/global
@@ -15,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfficeConverter", "OfficeConverter\OfficeConverter.csproj", "{F7D6224C-472C-43D2-B19F-07EF96DF7B21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerTest", "DockerTest\DockerTest.csproj", "{89F25962-D801-40D4-8231-E531F326E3BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockerTest", "DockerTest\DockerTest.csproj", "{89F25962-D801-40D4-8231-E531F326E3BD}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{D0B3DA90-EB2A-47D7-83C6-B739BD40A4A9}"
 EndProject

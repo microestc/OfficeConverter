@@ -1,4 +1,4 @@
-﻿namespace OfficeConverter
+﻿namespace Microestc.OfficeConverter
 {
     public enum QueueStatus
     {

@@ -1,7 +1,7 @@
-﻿using OfficeConverter.Events;
+﻿using Microestc.OfficeConverter.Events;
 using System.IO;
 
-namespace OfficeConverter
+namespace Microestc.OfficeConverter
 {
     public class OfficeService : IOfficeService
     {
